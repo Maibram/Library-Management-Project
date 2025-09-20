@@ -1,7 +1,9 @@
 **Library Management System**
+
 A comprehensive web-based application built with PHP and MySQL to streamline and automate the operations of a library. This system provides an easy-to-use interface for both librarians (admins) and members (users).
 
 ** Features**
+
 This project is divided into two main modules: an Admin module and a User module.
 
 **Admin Panel:**
