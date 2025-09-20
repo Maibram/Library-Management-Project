@@ -1,16 +1,16 @@
- Library Management System
+**Library Management System**
 A comprehensive web-based application built with PHP and MySQL to streamline and automate the operations of a library. This system provides an easy-to-use interface for both librarians (admins) and members (users).
 
- Features
+** Features**
 This project is divided into two main modules: an Admin module and a User module.
 
-Admin Panel:
+**Admin Panel:**
 
 Secure Admin Login: A dedicated login panel for the librarian/admin.
 
 Dashboard: An overview of key statistics like total books, registered members, and books currently issued.
 
-Book Management:
+**Book Management:**
 
 Add new books with details like ISBN, title, author, and category.
 
@@ -20,7 +20,7 @@ Delete books from the library records.
 
 View a complete list of all books.
 
-Member Management:
+**Member Management:**
 
 Add new library members.
 
@@ -38,7 +38,7 @@ Automatically calculate and apply fines for late returns.
 
 Search Functionality: Easily search for books or members.
 
-User Panel:
+**User Panel:**
 
 User Registration & Login: Members can create an account and log in.
 
